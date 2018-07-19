@@ -1,1 +1,1 @@
-# edebit direct payment gateway
+# edebit direct payment gateway module for prestashop
